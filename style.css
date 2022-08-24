@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: verdana;
+}
+
+body {
+
+    background: #3cb371;
+    box-sizing: border-box;
+}
+
+main{
+    width: 850px;
+    height: 850px;
+    background: white;
+    float: left;
+    margin: 20px 25px;
+}
+main img{
+    width: 850px;
+}
+main h2 {
+    padding: 15px 15px 0 15px;
+    font-size: 1.3em;
+}
+main p{
+    padding: 15px;
+    margin-top: -10px;
+    font-size: 1em;
+    color: grey;
+}
+.josh{
+padding: 15px;
+margin-top: 50px;
+    font-size: 0.8em;
+    color: grey;
+}
+.right{
+    text-align: right;
+    padding: 15px;
+    font-size: 0.8em;
+    color: grey;
+    margin-top: -50px;
+}
+section{
+    display: inline-block;
+    width: 320px;
+    height: 600px;
+    background: white;
+    margin: 20px;
+}
+section img{
+    width: 320px;
+    height: 200px;
+}
+section h2{
+    padding: 15px 15px 0 15px;
+    font-size: 1.3em;
+}
+section p{
+    padding: 15px;
+    margin-top: -10px;
+    font-size: 1em;
+    color: grey;
+}
+aside {
+    width: 320px;
+    height: 240px;
+    margin: 20px;
+    background: white;
+    display: inline-block;
+}
+.right2 {
+    text-align: right;
+    padding: 15px;
+    font-size: 1em;
+    color: grey;
+    margin-top: -50px;
+}
+aside h2{
+    margin: 20px;
+}
+aside p{
+    margin: 20px;
+    margin-top: -10px;
+        font-size: 0.8em;
+        color: grey;
+}
+.right3{
+    font-size: 0.8em;
+        color: grey;
+        text-align: right;
+        margin: 20px;
+        margin-top: -35px;
+}
+
